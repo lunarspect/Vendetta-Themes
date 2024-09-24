@@ -1,0 +1,35 @@
+{
+    "name": "Dark Vendetta",
+    "description": "A \"improved\" dark theme for Discord.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nModified by Lunarspect.\nTested on 248.17 Discord version.\nLast updated: 24.9.2024.",
+    "authors": [
+        {
+            "name": "ignacio",
+            "id": "811581067940855888"
+        },
+        {
+            "name": "Kitomanari",
+            "id": "437154602626973697"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BACKGROUND_MENTIONED": ["#00000000"]
+    },
+    "rawColors": {
+        "PLUM_13": "#181818",
+        "PLUM_15": "#181818",
+        "PLUM_16": "#181818",
+        "PLUM_17": "#141414",
+        "PLUM_18": "#141414",
+        "PLUM_19": "#181818",
+        "PLUM_20": "#121212",
+        "PLUM_22": "#121212",
+        "PLUM_23": "#181818",
+        "YELLOW_300": "#007bff"
+    },
+    "background": {
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
+}
