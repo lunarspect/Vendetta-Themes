@@ -3,6 +3,10 @@
     "description": "A \"improved\" dark theme for Discord.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nModified by Lunarspect.\nTested on 248.17 Discord version.\nLast updated: 24.9.2024.",
     "authors": [
         {
+            "name": "lunarspect",
+            "id": "1233235458952265800"
+        },
+        {
             "name": "ignacio",
             "id": "811581067940855888"
         },
